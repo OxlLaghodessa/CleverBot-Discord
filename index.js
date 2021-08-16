@@ -51,4 +51,4 @@ if(!message.author.bot && message.channel.id == ""){ // channel Id
 
 
 
-client.login(""); // Your Token Bot 
+client.login("ODc2NjE5MDA4OTQ4OTkwMDEz.YRmtEg.y31IStt8Cv_TW80X_T28n-3lm5U"); // Your Token Bot 
